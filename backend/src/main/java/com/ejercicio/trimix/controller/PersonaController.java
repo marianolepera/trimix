@@ -42,7 +42,7 @@ public class PersonaController {
 			return  personaRepository.encontrarPersonaPorNombre(nombre);
 		}
 		
-		// trae  personas por nombre
+		// trae  personas por tipo de documento
 		@GetMapping("/personas/tipo/{tipoDocumento}")
 		public List<Persona> traerTipoDeDocumento(@PathVariable String tipoDocumento){
 			return  personaRepository.encontrarTipoDocumento(tipoDocumento);
