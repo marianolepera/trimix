@@ -1,3 +1,1 @@
-"# trimix" 
-
-backend en java de la aplicacion de trimix para su examen
+Backend en java para examen de trimix
