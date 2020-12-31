@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
- Aplicacion para examen de trimix, backend y frontend
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ Aplicacion para examen de trimix, backend(JAVA) y frontend (REACT)
+
 
 ## Available Scripts
 
